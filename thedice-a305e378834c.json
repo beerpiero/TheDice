@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thedice",
+  "private_key_id": "a305e378834cd63d8143b6f7ebb4f38b4708220c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr5uAKw4pm/5Wy\nr4xiwP59yRPdv5Qfry+1EX2DgKLqfbHjXxJ2PQ8A2ixFUhDIos/QEGcVOPd+OZIK\nh6s4FB27gzT+wSKZVxC3Od3afhKdm8M8YVTpEmj69mZxsIxd4Jbd2sw+6ys3eg4b\nbCYXwtKHW6L1tTIWE76id0EfkeM9cwM0iwH5MRJNQqbM4rlkoVffciX9HqhtXqx5\n2mhZBo+NohX+CsI+MjL7rCqpYdg7Stk3n5xy5jeThrP6mHHJACpWKDcDZSO/C45Z\n67yJHqUB4mvzpkHET1JxdoGkVAVcydMN7avMDYWmMtQknasnMCH412BtONMxmpch\n2q08F9YLAgMBAAECggEAKV7wp5aE7iHvyKfIHRI+jU5B2jnbr75tOGIjt2zTiKTE\nlaiRXGR4gmd/hRVplafdZME11d02byny1FbvZZktyK2cqP0ZUxcpnjcuhgGWgFj2\n5Ua1dTxpiJCZeh4XwhYlqPIZ+sCFT54v2/isuEY6fboXn5PCoJ6S4C3cPflR2703\n2B2dLGL4WJfYJwSvPZi5MCIDyAOznzY46Jq2qtE5IuA7xHaHXf1tk5M5o0c4tNEq\nVkFgBLojzefvqIhfnWSqtOct+loBWX4ghZ6lytlkoGP3a85AJSy0JtodUJ8MyC/j\nNJz8CauCN7wOFzhUFAxfCu8IVga9TzZOqaCmwovPQQKBgQDVmtzbmtTS+Tz/h6c+\no256MNj8xlnDyhcggPNSJTx+jWW3lTO6/FJIH8qpbPY+HowNxY8AdyePfTrB8VxR\nsGi6bnCpFnp2mKg91RrFfhgUewe/hwNav3PCTJExas9l6mdxkDknMVG+e3rfUsTF\n+aJsqEOEp2EO68Y9f7SCRv2jSwKBgQDOBRq4k1GtZ4MdBNTMpHytzbWbWSun9d9R\noBw2unEQ0ApmZmaJGm/sh9dTHb8V1K7FveIvUQ8tTwDLv4fGT6h0F2/2XKZRMcpa\n+9FOqj0NOzvE5V3AgSnfDJX5f/IToYpC+BL0T24XV82ip7BpKy0y1J8zDYqE2g4i\nPSG47tggQQKBgCnzUyLSArA4gNFSi/cSU9UtmL/0GJcKLoaUrLTaWUolbO+kHte/\nTE2b6MpjeuzyROFDhnU58YwNtSd3xoDIm5jZrciXgI+gJZKXMr3MqOAE1Z2432DI\nLuze6rkA2CCU66HzCDZ5SiuVxqjrcXfMMikS1sfLs5UhmvpjBUl8tb2HAoGAYK78\nj0pztlExstillTRMXrR/WdxLJJO6re/ZzcVJcn5vowbDb+w8QmCtqI/5MSGSs7Id\nB9+eo8DDutqzuVmA0Jp/LLrmQox/TpuG6sfxxtfZgNmzWbhEEi0x5NkqnhPdcvhA\nzO7J16KZGpBftbtRht1JqQfdzeMXZvIRdVyBiQECgYBaBCSINos6407eD1/jbvqT\n20Ht02QxsDQ9DT0KsjImiMv+O34LM68BMNd53OfhpbJ+s94jj02DsegrmOrEv9Rt\n+Yo8vX1p46dji0qnGpwR8NA4sJoCJTIKWetOPsNIe3r8+OtDOzidtC0dn576akKw\nHfXSfl/GV6GwMw8Ie49VMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "thedice@thedice.iam.gserviceaccount.com",
+  "client_id": "106665474964077135885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thedice%40thedice.iam.gserviceaccount.com"
+}
